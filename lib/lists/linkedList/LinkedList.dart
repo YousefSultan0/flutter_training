@@ -37,6 +37,7 @@ class LinkedList<T> {
     }
     newNode.next = curr?.next;
     curr?.next = newNode;
+    ++_length;
   }
 
   /// Removes and returns the element at [index].
