@@ -1,4 +1,4 @@
-import 'package:flutter_training_tasks/lists/linkedList/LinkedList.dart';
+import 'package:flutter_training_tasks/dataStructures/linkedList/LinkedList.dart';
 import 'package:test/test.dart';
 
 
